@@ -6,10 +6,8 @@
   </a>
 </div>
 
-## 自己紹介
-
-**[Name]** Kim Donghyun <br />
-**[Age]** 19
+<br />
+<br />
 
 ## 開発環境
 
